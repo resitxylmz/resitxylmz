@@ -1,4 +1,4 @@
-### Hi there in care 👋
+### Hi there 👋
 
 <!--
 **resitxylmz/resitxylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
